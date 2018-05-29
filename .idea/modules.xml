@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/P0111_resvalues/P0111_resvalues.iml" filepath="$PROJECT_DIR$/P0111_resvalues/P0111_resvalues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0131_menusimple/P0131_menusimple.iml" filepath="$PROJECT_DIR$/P0131_menusimple/P0131_menusimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0151_contextmenu/P0151_contextmenu.iml" filepath="$PROJECT_DIR$/P0151_contextmenu/P0151_contextmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0171_dynamiclayout2/P0171_dynamiclayout2.iml" filepath="$PROJECT_DIR$/P0171_dynamiclayout2/P0171_dynamiclayout2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0181_DynamicLayout3/P0181_DynamicLayout3.iml" filepath="$PROJECT_DIR$/P0181_DynamicLayout3/P0181_DynamicLayout3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0191_simplecalculator/P0191_simplecalculator.iml" filepath="$PROJECT_DIR$/P0191_simplecalculator/P0191_simplecalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0201_simpleanimation/P0201_simpleanimation.iml" filepath="$PROJECT_DIR$/P0201_simpleanimation/P0201_simpleanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessonss.iml" filepath="$PROJECT_DIR$/lessonss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0141_menuadv/p0141_menuadv.iml" filepath="$PROJECT_DIR$/p0141_menuadv/p0141_menuadv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tic-tac-toe/tic-tac-toe.iml" filepath="$PROJECT_DIR$/tic-tac-toe/tic-tac-toe.iml" />
+    </modules>
+  </component>
+</project>
